@@ -26,7 +26,7 @@
     "@types/node": "^10.7.0",
     "@types/react": "^16.8.24",
     "@types/react-dom": "^16.0.7",
-    "typescript": "^3.0.1"
+    "typescript": "^3.5.3"
   },
   "homepage": "https://jamesbyrne89.github.io/form"
 }
